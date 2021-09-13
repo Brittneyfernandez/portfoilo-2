@@ -502,8 +502,7 @@ input:checked + .slide-container .nav label {
 }
 #footer{
   font-size: 25px;
- padding-top: 20px;
-  
+  padding-top: 20px;
   color: var(--color-white);
   text-shadow: 1px 1px  var(--color-red);
   padding: 80px;
@@ -525,10 +524,9 @@ input:checked + .slide-container .nav label {
 }
 #footer li:hover{
   cursor: pointer;
- 
   text-shadow: 1px 1px var(--color-white);
   margin: 15px;
-  font-size:25px ;
+  font-size:35px ;
 
 }
 .footer-groups>div:nth-child(2){
@@ -617,3 +615,4 @@ input:checked + .slide-container .nav label {
   font-size: 20px;
   padding: 15px;
 }
+

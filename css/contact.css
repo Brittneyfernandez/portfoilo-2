@@ -1,0 +1,29 @@
+body {
+    background-color: black;
+    padding: 1px;
+}
+.container {
+  background-color: beige;
+  padding: 50px;
+}
+h1 {
+  margin-bottom: 20px;
+}
+form {
+  border: 2px solid black;
+  padding: 30px;
+  margin-top: 50px;
+}
+
+img {
+    object-fit: cover;
+   object-position: left;
+}
+
+#text-port {
+    color: white;
+}
+.navbar  {
+    position: relative;
+
+  }
